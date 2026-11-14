@@ -12,13 +12,20 @@
 - 手機與電腦版面
 - 未設定價格或庫存，一律透過 IG 確認
 
-## GitHub Pages 上線（免費）
+## 目前網站
+
+- 正式網站：https://waisun1021.github.io/cookie-kuma/
+- 商品編輯器：https://waisun1021.github.io/cookie-kuma/admin.html
+- 原始碼：https://github.com/Waisun1021/cookie-kuma
+- 已啟用 main 分支根目錄的 GitHub Pages 自動部署與 HTTPS。
+
+## GitHub Pages 重建步驟（免費）
 
 1. 登入 `Waisun1021`，建立公開的 `cookie-kuma` repository。
 2. 上傳此資料夾**內的所有檔案與 assets 資料夾**，確保 index.html 位於 repository 根目錄。
 3. 開啟 Settings → Pages → Build and deployment。
 4. Source 選 Deploy from a branch，Branch 選 main，Folder 選 / (root)，按 Save。
-5. 部署完成後，網站網址為 https://waisun1021.github.io/cookie-kuma/ 。此為預定網址，啟用前不代表已上線。
+5. 部署完成後，網站網址為 https://waisun1021.github.io/cookie-kuma/ 。目前已啟用。
 
 `Cookie` 會出現在網址路徑 `cookie-kuma`，不需要購買獨立網域。如果希望使用 cookie-kuma.com 之類的專屬網域，則需要另外持有該網域。
 
